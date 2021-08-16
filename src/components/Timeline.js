@@ -39,6 +39,17 @@ export default function ColorsTimeline() {
             <TimelineConnector />
         </TimelineSeparator>
         <TimelineContent className={classes.title}>
+            <strong>Fullstack Developer</strong><br></br>
+            at Elections Canada
+        </TimelineContent>
+        </TimelineItem>
+
+        <TimelineItem>
+        <TimelineSeparator>
+            <TimelineDot color="secondary" />
+            <TimelineConnector />
+        </TimelineSeparator>
+        <TimelineContent className={classes.title}>
             <strong>Frontend Developer</strong><br></br>
             at University of Ottawa
         </TimelineContent>
