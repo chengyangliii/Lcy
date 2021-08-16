@@ -185,7 +185,7 @@ export default function App() {
           
 
           
-          {/* <Typography className={classes.sectionIntro} >
+          <Typography className={classes.sectionIntro} >
             Recent Projects
           </Typography>
           <Grid container justify = "center" >
@@ -211,9 +211,7 @@ export default function App() {
                 </Card>
               </a>
             </Fade>
-          </Grid> */}
-
-           {/* asd */}
+          </Grid>
           
           <Typography className={classes.sectionIntro} >
             Recent experiments
